@@ -204,3 +204,7 @@ This project helped me gain practical experience in SQL, Python, Pandas, custome
 ## Author
 
 **Md Seraj Anwar**
+
+**Skills:** SQL | Pandas | Power BI | DAX
+
+LinkedIn: https://www.linkedin.com/in/md-seraj-anwar-45a32325a/
