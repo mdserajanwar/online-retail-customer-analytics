@@ -12,8 +12,7 @@
 - [Results & Conclusion](#results--conclusion)
 - [Author](#author)
 
----
-
+--- 
 Analysed over 1 million online retail transactions using SQL, Python and RFM analysis to identify valuable customers, understand purchasing behaviour and detect customers at risk of churn through an interactive Power BI dashboard.
 
 ## Overview
@@ -144,9 +143,7 @@ The Power BI dashboard allows users to explore:
 
 ### Dashboard Screenshot
 
-_Add your Power BI dashboard screenshot here._
-
-## How to Run This Project?
+![Retail Business Overview](Image/retail_business_overview.png)
 
 ### Folder Structure
 
